@@ -51,6 +51,7 @@ extern "C" {
 #define PCA9537_I2C_ADDR      0x49 ///< I2C address for PCA9537
 #define PCA9557_I2C_ADDR_BASE 0x18 ///< Base I2C address for PCA9557
 #define TCA9534_I2C_ADDR_BASE 0x20 ///< Base I2C address for TCA9534
+#define TCA9534A_I2C_ADDR_BASE 0x3A ///< Base I2C address for TCA9534A
 
 /**
  * Pin modes (directions)
